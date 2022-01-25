@@ -1,3 +1,4 @@
 ||content1.nrc.nl^
 ||content2.nrc.nl^
 ||content3.nrc.nl^
+||syndication.exdynsrv.com^
