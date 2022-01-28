@@ -2,3 +2,4 @@
 ||content2.nrc.nl^
 ||content3.nrc.nl^
 ||syndication.exdynsrv.com^
+||ent-cdn.com^
