@@ -3,3 +3,4 @@
 ||content3.nrc.nl^
 ||syndication.exdynsrv.com^
 ||ent-cdn.com^
+||clickadilla.com^
