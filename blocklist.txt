@@ -4,3 +4,4 @@
 ||syndication.exdynsrv.com^
 ||ent-cdn.com^
 ||clickadilla.com^
+||exdynsrv.com^
