@@ -5,3 +5,4 @@
 ||ent-cdn.com^
 ||clickadilla.com^
 ||syndication.exdynsrv.com^
+||2mdn.net^
