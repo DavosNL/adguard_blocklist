@@ -6,4 +6,3 @@
 ||clickadilla.com^
 ||ackcdn.net^
 ||2mdn.net^
-||ackcdn.net^
