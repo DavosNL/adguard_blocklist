@@ -10,4 +10,4 @@
 @||cloudimagesb.com^
 @||highwebmedia.com^
 @||googlesyndication.com^
-@||aa.tweakers.nl^
+@||tweakers.nl^
