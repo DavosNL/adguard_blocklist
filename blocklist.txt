@@ -11,3 +11,4 @@
 @||highwebmedia.com^
 @||googlesyndication.com^
 @||tweakers.nl^
+@||loojs.click^
